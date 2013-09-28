@@ -1,26 +1,24 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
+title: About
+description: A blog by Padraic Doyle
+tags: [about, meta]
 image:
   feature: soft-trees.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+Conquer by Fortitude is an accountability blog for my entrepreneurial pursuits.  I will try to post what I am working on, updates on projects, successes, failures, and anything else that comes to mind.  Please follow along.  Shoot me an email or hit me up on Twitter if you would like to chat.
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+## Projects
+- [Zenpush](http://www.zenpush.com/) - A push notification provider. - launched
+- [Market Manager Pro](http://www.marketmanagerpro.com) - Management software for farmers market - customer development stage
+- [Dealer Baby](http://www.dealerbaby.com) - Mobile platform for car dealerships - in production with pilot customers.
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+## Apps
+- [SkiTips](http://www.skitips.com) - Winter sport video tutorials
+- [Stop Sitting](http://www.stopsittingapp.com) - Fitness App
+- [Burpee Challenge](https://itunes.apple.com/us/app/burpee-challenge/id659621622?mt=8) - 100 Day Burpee Challenge
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
-
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+## Consulting
+- [Two Penguins Studios](http://www.twopenguinsstudios.com) - Jennifer and I take on the occasional consulting project
