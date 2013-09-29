@@ -2,7 +2,7 @@
 layout: post
 title: One More Time
 description: "Let's give this blogging thing one more try."
-category: artciles
+category: articles
 comments: true
 tags: [personal, blogging, meta]
 image:
