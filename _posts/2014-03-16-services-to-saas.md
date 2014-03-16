@@ -56,6 +56,7 @@ What We Learned
 * Do not worry all that much about driving traffic to landing pages.  We took 3 hrs to build a landing page and never really did anything with it.  Instead we used that time to find people to talk to us.
 * Pick a target market where you can reach people with purchasing power over the phone or email.  Individually reach out to these people personally and do not worry about scale.
 * If you do not mind sales or talking to people consider building a product with a higher price point.  Although this lengthens sales cycles it also lowers churn which leads to better revenue forecasting.
+* Jennifer and I are trying to replicate this same process with our other business [Market Manager Pro](http://www.marketmanagerpro.com)
 
 Where Do We Go From Here
 ---
