@@ -8,7 +8,7 @@ image:
   feature: soft-trees.jpg
 ---
 
-Conquer by Fortitude is an accountability blog for my entrepreneurial pursuits.  I will try to post what I am working on, updates on projects, successes, failures, and anything else that comes to mind.  Please follow along.  Shoot me an email or hit me up on Twitter if you would like to chat.
+Conquer by Fortitude is a blog for my entrepreneurial pursuits and travels.  I will try to post what I am working on, updates on projects, successes, failures, and anything else that comes to mind.  Please follow along.  Shoot me an email or hit me up on Twitter if you would like to chat.
 
 ## Businesses
 - [Zenpush](http://www.zenpush.com/) - A push notification provider.
