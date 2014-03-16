@@ -34,7 +34,7 @@ Through interviewing and casual conversation with car dealerships we realized th
 
 We saw an opportunity.  After talking to several of the DMS vendors we decided to integrate with one that had a decent install base and an easy to work with API.  Through our direct mail offering we had a good idea what the car dealerships were willing to pay for marketing products, what their monthly marketing budget was, what the competition was charging, and how much the automobile manufacturers would reimburse them for.  *Most importantly we had a list of existing service customers which we could pitch our potential SAAS product.*  
 
-We would have known none of this if we just started building a product.  Only though talking to customers did we learn all the information that lead us to start coming up with requirements for next product offering.  However, even after learning all of this, we were still not ready to start building anything.
+We would have known none of this if we just started building a product.  With the knowledge learned we started to draft up some requirements for a product offering, but we were still not ready to start writing code.
 
 
 Pre-Selling our Non-Existing Product
