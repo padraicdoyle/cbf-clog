@@ -13,7 +13,7 @@ I am Padraic Doyle.  I am a location independent, part-time digital nomad, part-
 **I am currently living in Upstate NY with the beautiful, intelligent, and strong Jennifer Harris.  I am currently working as the CTO of TableUp and Cofounder of Inspect Point.**
 
 ## Why "Conquer by Fortitude"?
-***Fortiudine Vincit*** - ***he conquers by fortitude*** is the Doyle Family motto.  I thought it would be a pretty cool name for a blog.
+**Fortiudine Vincit** - ***he conquers by fortitude*** is the Doyle Family motto.  I thought it would be a pretty cool name for a blog.
 
 ## What I am Working On
 - [Inspect Point](http://www.inspectpoint.com/) - Fire protection inspection software
