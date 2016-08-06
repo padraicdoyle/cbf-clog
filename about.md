@@ -10,9 +10,9 @@ image:
 
 I am Padraic Doyle.  I am a location independent, part-time digital nomad, part-time philosopher, brazilian jiu-jitsu blue belt, minimalist, on a never ending pursuit of freedom.  Well, I try to be these things at least!
 
-**I am currently living in Upstate NY working as the CTO of TableUp and Cofounder of Inspect Point.**
+**I am currently living in Upstate NY with the beautiful, intelligent, and strong Jennifer Harris.  I am currently working as the CTO of TableUp and Cofounder of Inspect Point.**
 
-####My Startup Rock Bottom (or the catalyst)
+###My Startup Rock Bottom
 
 A few years ago Jennifer and I tried, and failed, to launch what I would consider a "traditional vc style" startup.  After dumping a lot of time and money down the drain I not only realized the business was going nowhere...but I realized that none of it was making me happy.  Even the successful outcome wasn't what either of us wanted.
 
@@ -23,10 +23,9 @@ At the time I was co-owner of an old duplex in Troy, NY.  I was taking a bath (I
 \* when I saw we I am referring to Jennifer Harris and myself.
 
 ###What did we want?
-This is constantly changing, but we realized that we both wanted the same thing.  We wanted to be free.
+We wanted to travel.  We wanted to be out of debt.  We wanted to work on interesting fulfilling projects.  We wanted to be free.
 
-###You were born in the USA...aren't you already free
-Yes, but there are levels to freedom.  On top of that I firmly believe that traditional life scripts that we are taught from an early age 
+###What was stopping us?
 
 
 ## Why "Conquer by Fortitude"?
