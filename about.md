@@ -16,19 +16,17 @@ I am Padraic Doyle.  I am a location independent, part-time digital nomad, part-
 
 A few years ago Jennifer and I tried, and failed, to launch what I would consider a "traditional vc style" startup.  After dumping a lot of time and money down the drain I not only realized the business was going nowhere...but I realized that none of it was making me happy.  Even the successful outcome wasn't what either of us wanted.
 
-####Moment of Clarity
+###Moment of Clarity
 
 At the time I was co-owner of an old duplex in Troy, NY.  I was taking a bath (I do my best thinking and reading in the bath) when I realized that we* had to shut down the start up, take a step back, figure out exactly what we wanted, and work backwards from there.
 
 \* when I saw we I am referring to Jennifer Harris and myself.
 
-####What did we want?
+###What did we want?
 This is constantly changing, but we realized that we both wanted the same thing.  We wanted to be free.
 
-####You were born in the USA...aren't you already free
+###You were born in the USA...aren't you already free
 Yes, but there are levels to freedom.  On top of that I firmly believe that traditional life scripts that we are taught from an early age 
-
-####It's not easy, but we are doing it
 
 
 ## Why "Conquer by Fortitude"?
