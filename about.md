@@ -10,7 +10,7 @@ image:
 
 I am Padraic Doyle.  I am a location independent, part-time digital nomad, part-time philosopher, brazilian jiu-jitsu blue belt, minimalist, on a never ending pursuit of freedom.  Well, I try to be these things at least!
 
-**I am currently living in Upstate NY with the beautiful, intelligent, and strong Jennifer Harris.  I am currently working as the CTO of TableUp and Cofounder of Inspect Point.**
+**I am currently living in Upstate NY with the my wife - the beautiful, intelligent, and strong Jennifer Doyle.  I am currently working as the CTO of TableUp and Cofounder of Inspect Point.**
 
 ## Why "Conquer by Fortitude"?
 **Fortiudine Vincit** - ***he conquers by fortitude*** is the Doyle Family motto.  I thought it would be a pretty cool name for a blog.
@@ -21,8 +21,5 @@ I am Padraic Doyle.  I am a location independent, part-time digital nomad, part-
 
 ## What I am Interested In
 - Brazilian Jiu-Jitsu
-- Tiny Houses
 - Cryptocurrency 
-- AR and VR
-- Hearthstone
  
